@@ -25,9 +25,9 @@
 ## 交换流程流程
 
 - 将我的网站（下述信息示例为 blog）添加到你的友链列表中
-  - 站点名称：Restent's Notebook [非强制]
-  - URL：`https://blog.gxres.net`
-  - Slogan：`静寂に問う 答えを求めて` [非强制]
+  - 站点名称：233355607的生草小站 [非强制]
+  - URL：`https://233355607.xyz`
+  - Slogan：`一个音游人的摸鱼站` [非强制]
   - Logo
     - [我的头像](https://avatars.slirv.vip/alice)
     - [站点图标](https://avatars.slirv.vip/alice)

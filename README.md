@@ -1,3 +1,4 @@
+#你85没时间改 所以是res的
 # Ou's Friends
 
 你这是要，交换友链吗？(´·ω·`)
@@ -28,30 +29,23 @@
   - URL：`https://blog.gxres.net`
   - Slogan：`静寂に問う 答えを求めて` [非强制]
   - Logo
-    - [我的头像](https://library.gxres.net/images/icons/avatar.webp)
-    - [站点图标](https://library.gxres.net/images/icons/favicon.webp)
+    - [我的头像](https://avatars.slirv.vip/alice)
+    - [站点图标](https://avatars.slirv.vip/alice)
   - Banner
-    - 如果你的友链样式需要 Banner / 背景图，可以使用 [这个](https://library.gxres.net/images/bg.webp)
+    - 如果你的友链样式需要 Banner / 背景图，可以使用 [这个](没拍)
 - 准备好你的网站信息
   - 你需要提供 `站长名称`、`Slogan` 和 `网站链接`
-  - 同时，你需要自备一个 256x 的 WebP 格式头像，如果实在不方便可找我帮你转换；
+  - 同时，你需要自备一个 256x 的 WebP 格式头像；
   - 请确保你提供的信息是适合全年龄段的人群的内容。
-- Fork 本仓库到你的账号。
-- 打开本仓库的 `src/img` 文件夹，将你自备的头像上传到这里，并命名为你的名字（字母请小写）。
-- 打开本仓库的 `src/list.yaml` 并在最末尾添加你的站点。
-
   - 下述是一个对你有用的示例：
 
     ```yaml
     - name: 你的名字
       slogan: 你的 slogan
-      avatar: https://links.slirv.vip/img/你设置的名称.webp
+      avatar: 你的头像链接
       link: 你的链接
     ```
-
-    - 请将 `avatar` 一行的「你设置的名称」改为你设置的头像名称，注意 **不要更改原始 URL**。
-    - 如果你的名称是非 string 类型内容，请使用 `''` 包裹
-
+    
 - 确认你填写的信息是否无误，并开启一个 Pull Request。
 - 当你的 Pull Request 按流程顺利合并后，你的网站将会在 12 个小时内显示在我的友链页。
 

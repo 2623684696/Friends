@@ -15,7 +15,6 @@ try {
  }
   const listData = yaml.load(readFileSync("./src/list.yaml", "utf8"));
   mkdirSync("./dist/");
-  copySync("./src/img", "./dist/img");
 
   writeFileSync("./dist/links.json", JSON.stringify(listData));
   console.log(listData);
